@@ -1,5 +1,5 @@
 {
     "token": "Bot Token",
     "prefix": "=",
-    "botChannel": "Channel ID where you want the Bot work in"
+    "botChannel": "Gen Channel ID ( ex. #free-gen is 860547497789489162 )"
   }

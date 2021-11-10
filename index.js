@@ -54,12 +54,12 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         icon_url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                         text: "Developed by Altify#5121"
                     },
                     thumbnail: {
                         url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                     },
                     author: {
                         name: "Altify Account Generator Bot",
@@ -87,12 +87,12 @@ bot.on("message", message => {
                                     timestamp: new Date(),
                                     footer: {
                                         icon_url:
-                                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                                         text: "Developed by Altify#5121"
                                     },
                                     thumbnail: {
                                         url:
-                                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                                     },
                                     author: {
                                         name: "Altify Account Generator Bot",
@@ -121,12 +121,12 @@ bot.on("message", message => {
                             timestamp: new Date(),
                             footer: {
                                 icon_url:
-                                    "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                                    "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                                 text: "Developed by Altify#5121"
                             },
                             thumbnail: {
                                 url:
-                                    "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                                    "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                             },
                             author: {
                                 name: "Altify Account Generator Bot",
@@ -150,12 +150,12 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         icon_url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                         text: "Developed by Altify#5121"
                     },
                     thumbnail: {
                         url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                     },
                     author: {
                         name: "Altify Account Generator Bot",
@@ -175,12 +175,12 @@ bot.on("message", message => {
                     url: 'https://discord.gg/AVKEJtWkBj',
                     author: {
                         name: 'Command list',
-                        //icon_url: 'https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png',
+                        //icon_url: 'https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png',
                         url: 'https://discord.gg/AVKEJtWkBj',
                     },
                     description: '**This is a List of all Commands**',
                     thumbnail: {
-                        url: 'https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png',
+                        url: 'https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png',
                     },
                     fields: [
                         {
@@ -207,7 +207,7 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         text: 'Developed by Altify#5121',
-                        icon_url: 'https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png',
+                        icon_url: 'https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png',
                     },
                 };
                 message.channel.send({ embed });
@@ -233,12 +233,12 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         icon_url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                         text: "Developed by Altify#5121"
                     },
                     thumbnail: {
                         url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                     },
                     author: {
                         name: "Altify Account Generator Bot",
@@ -268,12 +268,12 @@ bot.on("message", message => {
                     timestamp: new Date(),
                     footer: {
                         icon_url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                         text: "Developed by Altify#5121"
                     },
                     thumbnail: {
                         url:
-                            "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                            "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                     },
                     author: {
                         name: "Altify Account Generator Bot",
@@ -293,12 +293,12 @@ bot.on("message", message => {
                 timestamp: new Date(),
                 footer: {
                     icon_url:
-                        "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
+                        "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png",
                     text: "Developed by Altify#5121"
                 },
                 thumbnail: {
                     url:
-                        "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png"
+                        "https://cdn.discordapp.com/attachments/860238638255702046/908091781789413386/image0.png"
                 },
                 author: {
                     name: "Altify Account Generator Bot",

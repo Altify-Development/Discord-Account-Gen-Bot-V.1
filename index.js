@@ -176,7 +176,7 @@ bot.on("message", message => {
                     author: {
                         name: 'Command list',
                         //icon_url: 'https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png',
-                        url: 'https://discord.gg/xF9KxAU',
+                        url: 'https://discord.gg/AVKEJtWkBj',
                     },
                     description: '**This is a List of all Commands**',
                     thumbnail: {
@@ -185,23 +185,23 @@ bot.on("message", message => {
                     fields: [
                         {
                             name: 'Generate Accounts',
-                            value: 'Usage: /gen <Service Name>',
+                            value: 'Usage: =gen <Service Name>',
                         },
                         {
                             name: 'Create Service',
-                            value: 'Usage: /create <Service Name>',
+                            value: 'Usage: =create <Service Name>',
                         },
                         {
                             name: 'Restock Service',
-                            value: 'Usage: /restock <ServiceName>',
+                            value: 'Usage: =restock <ServiceName>',
                         },
                         {
                             name: 'Add Accounts',
-                            value: 'Usage: /add <user:pass> <ServiceName>',
+                            value: 'Usage: =add <user:pass> <ServiceName>',
                         },
                         {
-                            name: 'Show Stats of AraCore Bot',
-                            value: 'Usage: /stats',
+                            name: 'Show Stats of Altify Bot',
+                            value: 'Usage: =stats',
                         },
                     ],
                     timestamp: new Date(),
@@ -234,7 +234,7 @@ bot.on("message", message => {
                     footer: {
                         icon_url:
                             "https://cdn.discordapp.com/attachments/605044891839365132/709708459528159252/aracore.png",
-                        text: "Developed by Arathon#4955"
+                        text: "Developed by Altify#5121"
                     },
                     thumbnail: {
                         url:

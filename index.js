@@ -23,6 +23,8 @@ app.get('/', function (request, response) {
 bot.on("ready", () => {
     console.log(`Logged in as ${bot.user.tag}!`);
     console.log(`Have fun with your account generator bot provided by Altify#5121!`);
+    console.log(`You will be receiving information about the bots preformance`);
+    console.log(`If there are any errors make sure to contact me immediately at Altify#5121`);
 });
 
 bot.on("message", message => {

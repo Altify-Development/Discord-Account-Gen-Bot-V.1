@@ -36,7 +36,7 @@ bot.on("message", message => {
         if (command === "gen") {
             if (generated.has(message.author.id)) {
                 message.channel.send(
-                    "You have a Cool Down of 24 Hours! - " +
+                    "You have a Cool Down of 30 Seconds! - " +
                     message.author
                 );
             } else {
@@ -106,7 +106,7 @@ bot.on("message", message => {
                                 generated.add(message.author.id);
                                 setTimeout(() => {
                                     generated.delete(message.author.id);
-                                }, 86400000); // 86400000 = 24 H , 150000 = 15 Min
+                                }, 5000); // 86400000 = 24 H , 150000 = 15 Min , 10000 = 1 Min , 5000 = 30 Seconds , 2500 = 15 Seconds , 1000 = 6 Seconds , 500 = 3 Seconds
                                 if (err) {
                                     console.log(err);
                                 }

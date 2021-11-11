@@ -21,7 +21,7 @@ app.get('/', function (request, response) {
     console.log('App is running, server is listening on port ', app.get('port'));
 });
 bot.on("ready", () => {
-    console.log(`Logged in as ${bot.user.tag}!`);
+    console.log(`Logged in as ${bot.user.tag} Successfully!`);
     console.log(`Have fun with your account generator bot provided by Altify#5121!`);
     console.log(`You will be receiving information about the bots preformance`);
     console.log(`If there are any errors make sure to contact me immediately at Altify#5121`);

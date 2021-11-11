@@ -49,7 +49,7 @@ bot.on("message", message => {
                     return message.reply("Please provide a Service!");
                 var fs = require("fs");
                 const filePath = __dirname + "/" + args[0] + ".txt";
-                //if(args[0] != __dirname + "txt") return message.reply("Couldnt found: " + args[0] + " in our Database!")
+                //if(args[0] != __dirname + "txt") return message.reply("Couldnt find: " + args[0] + " in our Stock!")
 
                 const embed = {
                     title: "Out of Stock!",

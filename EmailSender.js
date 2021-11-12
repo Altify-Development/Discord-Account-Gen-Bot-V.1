@@ -1,10 +1,8 @@
-Email.send({
-    SecureToken : "C973D7AD-F097-4B95-91F4-40ABC5567812",
-    To : '@email.com',
-    From : "AltifyHosting@isp.com",
-    Subject : "Thanks for using us!",
-    Body : "Thanks for using the Altify bot service"
-}).then(
-  message => alert(message)
-);
-<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("service_ln7q7nb");
+   })();
+</script>

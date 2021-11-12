@@ -37,7 +37,8 @@ bot.on("ready", () => {
     console.log(`Checking 89%`);
     console.log(`Checking 91%`);
     console.log(`Checking 99%`);
-    console.log(`Preformance Is Working correctly`);
+    console.log(`Preforming Correctly`);
+    
 });
 
 bot.on("message", message => {

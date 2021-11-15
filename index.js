@@ -26,19 +26,6 @@ bot.on("ready", () => {
     console.log(`You will be receiving information about the bots preformance`);
     console.log(`If there are any errors make sure to contact me immediately at Altify#5121`);
     console.log(`Continuing to launch configured bot`);
-    console.log(`Checking Preformance...`);
-    console.log(`Checking 1%`);
-    console.log(`Checking 11%`);
-    console.log(`Checking 32%`);
-    console.log(`Checking 53%`);
-    console.log(`Checking 82%`);
-    console.log(`Checking 85%`);
-    console.log(`Checking 87%`);
-    console.log(`Checking 89%`);
-    console.log(`Checking 91%`);
-    console.log(`Checking 99%`);
-    console.log(`Preforming Correctly`);
-    
 });
 
 bot.on("message", message => {

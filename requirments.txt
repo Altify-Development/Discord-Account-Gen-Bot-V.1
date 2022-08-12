@@ -1,0 +1,3 @@
+Paste these in your cmd prompt:
+npm install discord.js
+npm install nodemon.js

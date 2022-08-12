@@ -1,5 +1,5 @@
 # Discord-Account-Gen-Bot-V.1
-@ I AM BACK TO HACKING! THIS IS BEING UPDATED CURRENTLY AS OF 8/11/22
+# I AM BACK TO HACKING! THIS IS BEING UPDATED CURRENTLY AS OF 8/11/22
 # [THE MAIN PROJECT!](https://github.com/Altify-Developing/Altify-Developing-Main)
 # Created by Altify#5121
 # Discord server - https://discord.gg/AVKEJtWkBj
